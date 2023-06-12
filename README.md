@@ -7,7 +7,6 @@
 
   - [Description](#description)
   - [Walkthrough](#walkthrough)
-  - [Screenshoot](#screenshot)
   - [Questions](#questions)
   - [Credits](#credits)
   - [License](#license)
@@ -19,10 +18,6 @@
   ## Walkthrough 
   
   The a walkthrough of this application can be found at: 
-
-  ## Screenshot
- 
-  ![ECOMM BACKEND](Assets/Images/)
 
   ## Questions
   CONTACT: Amanda Lacroix

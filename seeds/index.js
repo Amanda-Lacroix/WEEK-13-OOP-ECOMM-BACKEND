@@ -21,6 +21,6 @@ const seedAll = async () => {
   console.log('\n----- PRODUCT TAGS SEEDED -----\n');
 
   process.exit(0);
-};
+}; 
 
 seedAll();

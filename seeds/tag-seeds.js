@@ -18,7 +18,7 @@ const tagData = [
   },
   {
     tag_name: 'white',
-  },
+  }, 
   {
     tag_name: 'gold',
   },
