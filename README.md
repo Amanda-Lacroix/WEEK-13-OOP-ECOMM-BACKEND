@@ -13,7 +13,7 @@
 
     
   ## Description
-  
+  An ECommerce functional Express.js API that connects to a MySQL database using Sequelize. The API will provide various routes for performing CRUD operations on categories, products, and tags.
   
   ## Walkthrough 
   
