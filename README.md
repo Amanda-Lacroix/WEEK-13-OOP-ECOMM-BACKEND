@@ -17,7 +17,7 @@
   
   ## Walkthrough 
   
-  The a walkthrough of this application can be found at: 
+  The a walkthrough of this application can be found at: https://drive.google.com/file/d/13tnLqLqhVc1-3F0kaP5velMhraAl8mRn/view  and 
 
   ## Questions
   CONTACT: Amanda Lacroix
